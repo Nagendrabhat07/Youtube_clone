@@ -1,0 +1,124 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100; ;
+    background-color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(228, 228, 228);
+
+}
+
+.left-section{
+    display: flex;
+    align-items: center;
+}
+.hamburger-menu{
+    height: 38px;
+    margin-left: 22px;
+    margin-right: 18px;
+}
+.youtube-logo{
+    height: 45px;
+}
+
+.middle-section{
+    flex: 1;
+    margin-left: 70px;
+    margin-right: 35px;
+    max-width: 300px;
+    display: flex;
+    align-items: center;
+}
+.search-bar{
+    flex: 1;
+    height: 27px;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 2px;
+    width: 0;
+   
+}
+.search-bar::placeholder{
+    font-family: Roboto,Arial;
+    font-size: 14px;
+}
+.search-button{
+    height: 32px;
+    width: 30px;
+    background-color:rgb(240, 240, 240) ;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    margin-left: -1px;
+    margin-right: 14px;
+}
+.search-icon{
+    height: 16px;
+   
+}
+.voice-search-button{
+    height: 31px;
+    width: 31px;
+    border-radius: 15.5px;
+    border: none;
+    background-color: rgb(245, 245, 245);
+  
+} 
+.voice-icon{
+    height: 16px;
+    margin-top: 2px;
+}
+
+/* .search-button1{
+    height:1rem;
+    
+} */
+.right-section{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 24px;
+    flex-shrink: 0;
+}
+.upload-icon{
+    height: 30px;
+}
+.youtube-apps-icon{
+    height: 30px;
+}
+.notifications-icon{
+    height: 30px;
+}
+.notifications-icon-container{
+    position: relative;
+}
+.notification-count{
+    position: absolute;
+    top: 10px;
+    right: 81px;
+    background-color: red;
+    color: white;
+    font-family: Roboto,Arial;
+    font-size:13px ;
+    font-weight: 500;
+    border-radius: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.user-icon{
+    height: 32px;
+    border-radius: 16px;
+}
