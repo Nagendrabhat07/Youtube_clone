@@ -1,21 +1,32 @@
-🎥 YouTube Clone
+**🎥 YouTube Clone**
+
 A simple YouTube clone built using HTML and CSS. This project replicates the basic UI of YouTube, focusing on design and layout, without functionality like video playback or server-side logic.
 
-🚀 Features
+**🚀 Features**
+
 Responsive design for both desktop and mobile views
+
 YouTube-like video player layout
+
 Sidebar navigation and video recommendations
+
 Header with search bar and user profile section
+
 Basic structure for video description
-🛠️ Built With
+
+**🛠️ Built With**
+
 HTML - For creating the webpage structure
+
 CSS - For styling and layout, including Flexbox and Grid
+
 
 ![Screenshot 2024-09-14 110502](https://github.com/user-attachments/assets/695031fe-a995-43af-ba87-39abfd220d81)
 🌐 Live Demo
 [https://main--cloned-you.netlify.app/](https://66f46020799743007abec94c--fluffy-dolphin-de2b1c.netlify.app/)
 
-📖 Learnings
+**📖 Learnings**
+
 Through building this project, I learned:
 
 *Advanced layout techniques using Flexbox and CSS Grid
