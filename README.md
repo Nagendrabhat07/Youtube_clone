@@ -23,8 +23,7 @@ CSS - For styling and layout, including Flexbox and Grid
 
 ![Screenshot 2024-09-14 110502](https://github.com/user-attachments/assets/695031fe-a995-43af-ba87-39abfd220d81)
 🌐 Live Demo
-https://66f468787997430a13bec7c0--ubiquitous-meringue-88256f.netlify.app/
-
+https://youtube-clone-by-ngb.netlify.app/
 **📖 Learnings**
 
 Through building this project, I learned:
